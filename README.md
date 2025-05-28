@@ -8,10 +8,13 @@ Electrical engineering student who is also slightly inclined to software side.
 
 
 # 📈 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AUS616&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=C9CBFF)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AUS616&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=C9CBFF)](https://github.com/anuraghazra/github-readme-stats)
+
+# Languages & Frameworks I use 🖥️
+<div align="center">
+  	[![My Skills](https://skillicons.dev/icons?i=c,python,html,flask,tailwind)](https://skillicons.dev)
+</div>
+
 
 
 
